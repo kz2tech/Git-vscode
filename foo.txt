@@ -1,3 +1,7 @@
 foo.txt
 foo2.txt
 foo3.txt
++++++++++++++
+too1.txt
+too2.txt
+too3.txt
